@@ -5,13 +5,14 @@
 authors:   
 Alois SIMON<sup>1*</sup>, Jonas FIERKE<sup>1,2</sup>, Ernesto J. REITER<sup>3</sup>, Gabriel A. LOGUERCIO<sup>4,5</sup>, Steffi HEINRICHS<sup>1,6</sup>, Birgitta PUTZENLECHNER<sup>2</sup>, Natalia Z. JOELSON<sup>1,7</sup>, Helge WALENTOWSKI<sup>1</sup>
 <br>
-1 HAWK University of Applied Sciences and Arts, Faculty of Resource Management, Göttingen, Germany
-2 University of Göttingen, Institute of Geography, Department of Cartography, GIS and Remote Sensing, Germany
-3 University of Göttingen, Plant Ecology and Ecosystems Research, Germany
-4 Andean Patagonian Forest Research and Extension Center (CIEFAP), Argentina
-5 Faculty of Engineering, Department of Forestry, National University of Patagonia San Juan Bosco, Argentina
-6 University of Göttingen, Silviculture and Forest Ecology of the Temperate Zones, Germany
-7 University of Göttingen, Faculty of Biology and Psychology, Germany.
+
+1 HAWK University of Applied Sciences and Arts, Faculty of Resource Management, Göttingen, Germany<br>
+2 University of Göttingen, Institute of Geography, Department of Cartography, GIS and Remote Sensing, Germany<br>
+3 University of Göttingen, Plant Ecology and Ecosystems Research, Germany<br>
+4 Andean Patagonian Forest Research and Extension Center (CIEFAP), Argentina<br>
+5 Faculty of Engineering, Department of Forestry, National University of Patagonia San Juan Bosco, Argentina<br>
+6 University of Göttingen, Silviculture and Forest Ecology of the Temperate Zones, Germany<br>
+7 University of Göttingen, Faculty of Biology and Psychology, Germany<br>
 
 
 *corresponding author   
@@ -32,4 +33,10 @@ We used micro-loggers to measure air temperature and relative humidity for one y
 The findings contribute to our understanding of the complex interplay between topography, climate, and vegetation in shaping the spatial patterns of species occurrences.
 </p>
 <br>
+
+**Acknowledgments**:<p align="justify">
+The study was part of the international and interdisciplinary research project “Sustainable forest management of temperate deciduous forests – Northern hemisphere beech and southern hemisphere beech forests” (KLIMNEM). The project is supported by funds of the Federal Ministry of Food and Agriculture (BMEL) based on a decision of the Parliament of the Federal Republic of Germany via the Federal Office for Agriculture and Food (BLE, grant No. 28I-042-01).
+</p>
+<br>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
