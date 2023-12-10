@@ -3,9 +3,8 @@
 ## The interior climate and its microclimatic variation of temperate forests in northern Patagonia, Argentina
 
 authors:   
-Alois SIMON<sup>1,2*</sup>, Klaus KATZENSTEINER<sup>1</sup>, Gudrun WALLENTIN<sup>3</sup>
 Alois SIMON<sup>1*</sup>, Jonas FIERKE<sup>1,2</sup>, Ernesto J. REITER<sup>3</sup>, Gabriel A. LOGUERCIO<sup>4,5</sup>, Steffi HEINRICHS<sup>1,6</sup>, Birgitta PUTZENLECHNER<sup>2</sup>, Natalia Z. JOELSON<sup>1,7</sup>, Helge WALENTOWSKI<sup>1</sup>
-
+<br>
 1 HAWK University of Applied Sciences and Arts, Faculty of Resource Management, Göttingen, Germany
 2 University of Göttingen, Institute of Geography, Department of Cartography, GIS and Remote Sensing, Germany
 3 University of Göttingen, Plant Ecology and Ecosystems Research, Germany
